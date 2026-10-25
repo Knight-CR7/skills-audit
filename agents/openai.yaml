@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skills Audit"
+  short_description: "Find duplicate or overlapping Codex skills and plugins"

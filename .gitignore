@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+skills-report.md
+.DS_Store
+Thumbs.db
